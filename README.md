@@ -7,3 +7,4 @@
 - [ImageMagick](ImageMagick.md)
 - [Ranger](Ranger.md)
 - [Terminal Productivity](TerminalProductivity.md)
+- [yt-dlp](yt-dlp.md)
