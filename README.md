@@ -10,4 +10,7 @@
 - [Terminal Productivity](TerminalProductivity.md)
 - [yt-dlp](yt-dlp.md)
 
-### THE BEST [QUICK REFERENCE](#QuickRef.ME.md) (in my opinion)
+### THE BEST [QUICK REFERENCE](QuickRef.ME.md) (in my opinion)
+
+If you are like me I also recommend [Learn X in Y minutes](https://learnxinyminutes.com/).
+Take a whirlwind tour of your next favorite language. Community-driven!
