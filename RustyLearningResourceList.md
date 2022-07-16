@@ -5,3 +5,5 @@
 - [Rust by Example (RBE)](https://doc.rust-lang.org/stable/rust-by-example/) - is a collection of runnable examples that illustrate various Rust concepts and standard libraries. 
 - [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/) - an introductory book about Rust.
 - [rust-lang.org/learn](https://www.rust-lang.org/learn) - Get started with Rust.
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/rust/) - Where X=Rust.
+- [QuickRef.ME](https://quickref.me/rust) - Rust cheatsheet.
