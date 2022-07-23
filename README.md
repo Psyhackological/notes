@@ -11,7 +11,12 @@
 - [yt-dlp](yt-dlp.md)
 - [Rusty Learning Resource List](RustyLearningResourceList.md)
 
-### THE BEST [QUICK REFERENCE](QuickRef.ME.md) (in my opinion)
+Other amazing resources not coming from me:
+## [Quick Reference](https://quickref.me/) - some cheatsheets and quick references contributed by open source angels.
+![FaviconQuickReference](https://quickref.me/images/favicon.png)
 
-If you are like me I also recommend [Learn X in Y minutes](https://learnxinyminutes.com/).
-Take a whirlwind tour of your next favorite language. Community-driven!
+##  [Learn X in Y minutes] - take a whirlwind tour of your next favorite language. Community-driven!
+![FaviconLearnXinYminutes](https://learnxinyminutes.com/favicon.ico)
+
+## [Exercism](https://exercism.org/) - Develop fluency in _59 programming languages_ with our unique blend of learning, practice and mentoring. Exercism is fun, effective and _100% free, forever_.
+![FaviconExercism](https://dg8krxphbh767.cloudfront.net/meta/apple-touch-icon.png)

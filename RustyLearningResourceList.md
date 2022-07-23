@@ -7,3 +7,4 @@
 - [rust-lang.org/learn](https://www.rust-lang.org/learn) - Get started with Rust.
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/rust/) - Where X=Rust.
 - [QuickRef.ME](https://quickref.me/rust) - Rust cheatsheet.
+- [The Rust Standard Library](https://doc.rust-lang.org/stable/std/) - Crate std.
