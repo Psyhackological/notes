@@ -1,5 +1,5 @@
 # Terminal Productivity
-![AlacrittyLogo](https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg)
+[![AlacrittyLogo](https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg)](https://alacritty.org/)
 
 ### ⬉ Cursor navigation
 | How to invoke      | What it does             |
