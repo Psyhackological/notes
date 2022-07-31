@@ -12,12 +12,13 @@
 - [QuickRef.ME](https://quickref.me/rust) - Rust cheatsheet.
 - [The Algorithms](https://the-algorithms.com/language/rust) - Open Source resource for learning Data Structures & Algorithms and their implementation in Rust.
 
-## 🦀Official Resources
+## 🦀 Official Resources
 - [rust-lang.org/learn](https://www.rust-lang.org/learn) - Get started with Rust.
 - [The Rust Programming Language Book](https://doc.rust-lang.org/stable/book/) - an introductory book about Rust.
 - [Rust by Example (RBE)](https://doc.rust-lang.org/stable/rust-by-example/) - is a collection of runnable examples that illustrate various Rust concepts and standard libraries. 
 - [rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code!
 - [The Rust Standard Library](https://doc.rust-lang.org/stable/std/) - Crate std.
+- [Rust Compiler Error Index](https://doc.rust-lang.org/error-index.html) - Rust Compiler Errors.
 
 ## 💸 Paid Courses
 - [ZeroToMastery - Rust Programming: The Complete Developer's Guide](https://zerotomastery.io/courses/learn-rust/) - Learn the Rust programming language from scratch!
