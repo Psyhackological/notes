@@ -1,6 +1,6 @@
 # Go Learning Resource List
 
-<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go-Logo_Blue" style="max-height:256px;">
+<img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="Go-Logo_Blue" height="256">
 
 ## 🌍 Comunity Resources
 
