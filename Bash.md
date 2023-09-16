@@ -277,7 +277,7 @@ echo $(( num1 * num2 )) # multiplying
 
 ### bc - basic calculcation
 
-`echo "20 + 0.4" | bc` For float variables pipe echo expression to bc 
+`echo "20 + 0.4" | bc` For float variables pipe echo expression to bc
 
 `echo "scale=2;20 / 0.5" | bc -l` Prints out 40 (20/0.5) with 2 decimal places (`40.00`)
 
@@ -335,7 +335,7 @@ fi
 | -eq    | ==            | equal            |
 | -ne    | !=            | not equal        |
 
-### Examples:
+### Examples
 
 ```bash
 #!/bin/bash

@@ -1,10 +1,11 @@
-# To install these:
+# To install these
 
 `sudo pacman -S paru`
 
 `sudo pacman -S yay`
 
 # [paru](https://github.com/morganamilo/paru)
+
 Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.
 
 [![asciicast](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE.svg)](https://asciinema.org/a/sEh1ZpZZUgXUsgqKxuDdhpdEE)
@@ -40,6 +41,7 @@ Get information about a package
 `paru -Si package_name`
 
 # [yay](https://github.com/Jguer/yay)
+
 Yet Another Yogurt - An AUR Helper Written in Go
 [![asciicast](https://asciinema.org/a/399431.svg)](https://asciinema.org/a/399431)
 [![asciicast](https://asciinema.org/a/399433.svg)](https://asciinema.org/a/399433)
@@ -74,6 +76,7 @@ Get information about a package
 `yay -Si package_name`
 
 # [pacman](https://wiki.archlinux.org/title/Pacman)
+
 Synchronize and update all packages
 
 `sudo pacman -Syu`
@@ -103,6 +106,7 @@ Get information about a package
 `pacman -Si package_name`
 
 # Comparison
+
 Synchronize and update all packages
 
 `paru`
@@ -138,7 +142,6 @@ To remove a single package, leaving all of its dependencies installed
 
 `sudo pacman -R package_name`
 
-
 To remove a package and its dependencies which are not required by any other installed package
 
 `paru -Rs package_name`
@@ -164,6 +167,7 @@ Get information about a package
 `pacman -Si package_name`
 
 # Conclusion
+
 Flags of the `paru` and `yay` are the same.
 
 # Differences between paru/yay and pacman
@@ -173,4 +177,4 @@ Flags of the `paru` and `yay` are the same.
 | Updating system | `paru` | `yay` | `pacman -Syu` |
 | Searching for a package | `paru package_name` | `yay package_name` | `pacman -Ss search_term |
 
-## + despite `pacman -Si` everything requires sudo privileges while `paru` and `yay` doesn't.
+## + despite `pacman -Si` everything requires sudo privileges while `paru` and `yay` doesn't

@@ -1,7 +1,9 @@
 # Terminal Productivity
+
 [![AlacrittyLogo](https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg)](https://alacritty.org/)
 
 ### ⬉ Cursor navigation
+
 | How to invoke      | What it does             |
 | ------------------ | ------------------------ |
 | `CTRL + A`         | To the beginning of line |
@@ -9,6 +11,7 @@
 | `🢀 and 🡺 arrows` | Previous/next character  |
 
 ### 📁 Directory navigation
+
 | What | Meaning        |
 | ---- | -------------- |
 | `.`  | Current        |
@@ -16,6 +19,7 @@
 | `-`  | Last visited   |
 
 ### 🧹 Clearing
+
 | How to invoke | What it does                                  |
 | ------------- | --------------------------------------------- |
 | `CTRL + l`    | Scroll down until text is no longer seen      |
@@ -27,6 +31,7 @@
 | `CTRL + d`    | Logout session and close terminal             |
 
 ### 📜 History
+
 | How to invoke      | What it does                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------ |
 | `🢁 and 🢃 arrows` | Previous/next command in history                                                           |
@@ -40,6 +45,7 @@
 | `^o^i`             | Replaces the first occurence of `o` with `i`                                               |
 
 ### ✴️ General
+
 | How to invoke          | What it does       |
 | ---------------------- | ------------------ |
 | `TAB`                  | Autocomplete       |

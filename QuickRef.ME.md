@@ -1,11 +1,15 @@
 # [QuickRef.ME](https://quickref.me/)
+
 ### Quick Reference
+
 Here are some cheatsheets and quick references contributed by [open source](https://github.com/Randy8080/reference) angels.
 
 ### Opinion
+
 When I had found out about this website I thought that my notes are worthless. Nonetheless, I make notes about topics that these resources won't cover, so I am going to continue doing notes except these topics:
 
 ## Programming[^1]
+
 - [Bash](https://quickref.me/bash)
 - [C#](https://quickref.me/cs)
 - [C++](https://quickref.me/cpp)
@@ -29,6 +33,7 @@ When I had found out about this website I thought that my notes are worthless. N
 - [YAML](https://quickref.me/yaml)
 
 ## Toolkit
+
 - [Emacs](https://quickref.me/emacs)
 - [Emmet](https://quickref.me/emmet)
 - [Mitmproxy](https://quickref.me/mitmproxy)
@@ -38,6 +43,7 @@ When I had found out about this website I thought that my notes are worthless. N
 - [XPath](https://quickref.me/xpath)
 
 ## Linux Command
+
 - [Awk](https://quickref.me/awk)
 - [Chmod](https://quickref.me/chmod)
 - [Cron](https://quickref.me/cron)
@@ -53,19 +59,23 @@ When I had found out about this website I thought that my notes are worthless. N
 - [Tmux](https://quickref.me/tmux)
 
 ## IDE
+
 - [IntelliJ IDEA](https://quickref.me/idea)
 - [WebStorm](https://quickref.me/webstorm)
 
 ## Python
+
 - [NumPy](https://quickref.me/numpy)
 
 ## Database
+
 - [Neo4j](https://quickref.me/neo4j)
 - [PostgreSQL](https://quickref.me/postgres)
 - [Redis](https://quickref.me/redis)
 - [MySQL](https://quickref.me/mysql)
 
 ## Other
+
 - [Emoji](https://quickref.me/emoji)
 - [HTML Characters Entities](https://quickref.me/html-char)
 - [HTTP Status Code](https://quickref.me/http-status-code)

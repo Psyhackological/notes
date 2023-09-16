@@ -1,5 +1,7 @@
 [![yt-dlp](https://raw.githubusercontent.com/yt-dlp/yt-dlp/master/.github/banner.svg)](https://github.com/yt-dlp/yt-dlp)
+
 # [Making it work](https://pypi.org/project/yt-dlp/)
+
 ### If python-pip is not installed (ArchLinux)
 
 `paru -S python-pip`
@@ -17,6 +19,7 @@
 `echo -e 'export PATH="~/.local/bin:$PATH"\n' >> ~/.bashrc`
 
 # Understanding how it works
+
 Default `-f`, `--format`:
 
 `yt-dlp -f "bv*+ba/b" "https://youtu.be/iik25wqIuFo"`
@@ -35,19 +38,20 @@ Result: __title.ext__
 
 Example: __Rick roll, but with different link.webm__
 
-### To embed subtitles:
+### To embed subtitles
 
 `yt-dlp --embed-subs "https://youtu.be/iik25wqIuFo"`
 
-### To embed metadata and chapters:
+### To embed metadata and chapters
 
 `yt-dlp --embed-metadata "https://youtu.be/iik25wqIuFo"`
 
 ### Combing everything to an alias
+
 `echo "alias yt-dl='yt-dlp -o \"%(title)s.%(ext)s\" --embed-subs --embed-metadata'" >> ~/.bashrc`
 `
 Source your terminal session to new ~/.bashrc file:
 `source ~/.bashrc`
 
 Usage:
-`yt-dl "https://youtu.be/iik25wqIuFo"
+`yt-dl "<https://youtu.be/iik25wqIuFo>"
