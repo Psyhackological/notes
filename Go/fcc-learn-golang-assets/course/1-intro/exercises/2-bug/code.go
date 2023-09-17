@@ -14,7 +14,7 @@ func main() {
 
 	// don't touch above this line
 
-	totalCost := costPerMessage + numMessages
+	totalCost := costPerMessage * numMessages
 
 	// don't touch below this line
 
