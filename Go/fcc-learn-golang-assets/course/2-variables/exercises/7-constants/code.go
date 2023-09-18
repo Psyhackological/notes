@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	const premiumPlanName = "Premium Plan"
-	premiumPlanName = "Basic Plan"
+	const premiumPlanName string = "Premium Plan"
+	const basicPlanName string = "Basic Plan"
 
 	// don't edit below this line
 
