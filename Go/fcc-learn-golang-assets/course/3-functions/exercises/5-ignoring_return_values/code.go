@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	firstName, lastName := getNames()
+	firstName, _ := getNames()
 	fmt.Println("Welcome to Textio,", firstName)
 }
 
