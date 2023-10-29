@@ -8,7 +8,9 @@ type divideError struct {
 	dividend float64
 }
 
-// ?
+func (dE divideError) Error() string {
+	return fmt.Sprintf("can not divide %v by zero", dE.dividend)
+}
 
 // don't edit below this line
 
