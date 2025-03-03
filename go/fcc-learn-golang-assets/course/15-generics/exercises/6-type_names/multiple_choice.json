@@ -1,8 +1,0 @@
-{
-  "question": "The name of a type parameter...",
-  "answers": [
-    "...can be anything, but 'T' is a common convention",
-    "...can and should be whatever you want",
-    "...must be 'T'"
-  ]
-}

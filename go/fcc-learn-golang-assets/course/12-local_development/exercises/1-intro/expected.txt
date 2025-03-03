@@ -1,2 +1,0 @@
-starting Mailio server
-stopping Mailio server

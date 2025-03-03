@@ -1,9 +1,0 @@
-Email sent: 'Hello there Stacy!'
-Email received: 'Hello there Stacy!'
-========================
-Email sent: 'Hi there John!'
-Email received: 'Hi there John!'
-========================
-Email sent: 'Hey there Jane!'
-Email received: 'Hey there Jane!'
-========================

@@ -1,7 +1,0 @@
-{
-  "question": "Does 'go run' build a production executable?",
-  "answers": [
-    "No",
-    "Yes"
-  ]
-}

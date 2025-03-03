@@ -1,8 +1,0 @@
-{
-  "question": "What happens when you read from a nil channel?",
-  "answers": [
-    "The receiver will block forever",
-    "The sender will block forever",
-    "Panic"
-  ]
-}
